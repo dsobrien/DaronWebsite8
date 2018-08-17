@@ -34,7 +34,7 @@ work:
     highlights:
       - "Partnered with sales and training teams, strengthening client relationships and generating new revenue opportunities."
       - "Coordinated all direct mail campaigns for accuracy, execution and follow up."
-      -  "Improve customer and prospect campaign delivery to achieve personalized targeting, optimized delivery and enhanced reporting"
+      - "Improve customer and prospect campaign delivery to achieve personalized targeting, optimized delivery and enhanced reporting."
 work:
   - company: "Farmers Insurance Group"
     position: "Marketing Specialist/Producer"
@@ -42,12 +42,10 @@ work:
     startDate: "2014-01"
     endDate: ""
     summary: >
-      FFP Insurance Services is a national network of Independent Marketing Organizations and Franchise Affiliates dedicated to supporting independent insurance agents and growing their business through unique sales systems and turnkey support.
-    highlights:
-      -  "Developing and qualifying leads to drive additional sales opportunities through cold-calling, networking, and other lead generation opportunities"
-      -  "Adequate knowledge of rating procedures, coverages, and industry operations to effectively manage, maintain, and write assigned client and prospect lists"
-      -  "Make sales presentations to prospective and existing clients on new and renewal business",
-      -  "Identify, develop and maintain list of insurance prospects"
+      - "Developing  and qualifying leads to drive additional sales opportunities through cold-calling, networking, and other lead generation opportunities."
+      - "Adequate knowledge of rating procedures, coverages, and industry operations to effectively manage, maintain, and write assigned client and prospect lists."
+      - "Make sales presentations to prospective and existing clients on new and renewal business",
+      - "Identify, develop and maintain list of insurance prospects"
 
 education:
   - institution: "University of California, Santa Barbara"
