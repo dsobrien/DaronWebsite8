@@ -1,23 +1,16 @@
 ---
-title: hy-img
-date: 2018-03-01 00:00:00 Z
+title: Billboard Awards 2014
+date: ''
 layout: project
-image: "/assets/img/projects/hy-img.svg"
-screenshot: "/assets/img/projects/hy-img.svg"
-links:
-- title: Website
-  url: https://qwtel.com/hy-img/
-- title: Source
-  url: https://github.com/qwtel/hy-img
-caption: Lazy-loading images with cancellation
-description: 'hy-img is a web component for lazy-loading images with in-flight request
-  cancellation for images that are scrolled out of view.
-
-'
+image: "/uploads/billboard-music-awards-1.jpg"
+screenshot: "/uploads/billboard-music-awards-1.jpg"
+links: []
+caption: ''
+description: ''
 accent_color: "#4fb1ba"
 accent_image:
   background: linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4
     70%,#cdccc8 100%)
   overlay: true
----
 
+---
