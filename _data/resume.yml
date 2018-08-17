@@ -45,7 +45,7 @@ work:
     highlights:
       - "Developing  and qualifying leads to drive additional sales opportunities through cold-calling, networking, and other lead generation opportunities."
       - "Adequate knowledge of rating procedures, coverages, and industry operations to effectively manage, maintain, and write assigned client and prospect lists."
-      - "Make sales presentations to prospective and existing clients on new and renewal business",
+      - "Make sales presentations to prospective and existing clients on new and renewal business"
       - "Identify, develop and maintain list of insurance prospects"
 
 education:
@@ -54,7 +54,7 @@ education:
     studyType: "Bachelor"
     startDate: "2008"
     endDate: "2012"
-    gpa: "3.5"
+    gpa: "3.75"
 
 skills:
   - name: "Web Development"
