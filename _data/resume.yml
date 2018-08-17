@@ -2,79 +2,61 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
+  name: "Daron O'Brien"
+  label: "Marketing Specialist"
   picture: "/assets/icons/icon.png"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  email: "dsobrien1@gmail.com"
+  phone: "(661) 618-3372"
+  website: "https://daronobrien.me"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    Daron is a Digital Marketing Specialist, with experience managing nation wide teams and multi-million-dollar campaigns. His background in brand strategy, visual design, and account management inform his mindful but competitive approach.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
+    address: ""
+    postalCode: "CA"
+    city: "Los Angeles"
     countryCode: "US"
     region: "California"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
+      username: "DshonOBrien"
       url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
+      username: "Daron O'Brien"
       url: ""
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "FFP Insurance Services"
+    position: "Marketing Specialist"
+    website: "https:/ffpis.com"
+    startDate: "2017-01-"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      FFP Insurance Services is a national network of Independent Marketing Organizations and Franchise Affiliates dedicated to supporting independent insurance agents and growing their business through unique sales systems and turnkey support.
     highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+      - "Partnered with sales and training teams, strengthening client relationships and generating new revenue opportunities."
+      - "Coordinated all direct mail campaigns for accuracy, execution and follow up."
+      -  "Improve customer and prospect campaign delivery to achieve personalized targeting, optimized delivery and enhanced reporting"
+work:
+  - company: "Farmers Insurance Group"
+    position: "Marketing Specialist/Producer"
+    website: ""
+    startDate: "2014-01"
+    endDate: ""
+    summary: >
+      FFP Insurance Services is a national network of Independent Marketing Organizations and Franchise Affiliates dedicated to supporting independent insurance agents and growing their business through unique sales systems and turnkey support.
     highlights:
-      - "Awarded 'Teacher of the Month'"
+      -  "Developing and qualifying leads to drive additional sales opportunities through cold-calling, networking, and other lead generation opportunities"
+      -  "Adequate knowledge of rating procedures, coverages, and industry operations to effectively manage, maintain, and write assigned client and prospect lists"
+      -  "Make sales presentations to prospective and existing clients on new and renewal business",
+      -  "Identify, develop and maintain list of insurance prospects"
+
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
+  - institution: "University of California, Santa Barbara"
+    area: "Communication"
     studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+    startDate: "2008"
+    endDate: "2012"
+    gpa: "3.5"
+
 skills:
   - name: "Web Development"
     level: "Master"
@@ -92,12 +74,13 @@ languages:
   - language: "English"
     fluency: "Native speaker"
 interests:
-  - name: "Wildlife"
+  - name: "Travel"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      - "Spain"
+      - "Italy"
+      - "Croatia"
+      - "Belgium"
+      - "England"
+      - "Ireland"
+      - "Germany"
+      - "France"
