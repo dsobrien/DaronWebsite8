@@ -1,9 +1,9 @@
 ---
-title: Billboard Awards 2014
-date: 2014-01-01 08:00:00 Z
+title: Billboard Awards 2015
+date: 2014-01-01 08:00:00 +0000
 layout: project
-image: "/uploads/billboard-music-awards-1.jpg"
-screenshot: "/uploads/billboard-music-awards-1.jpg"
+image: "/uploads/billboardaw-1.jpg"
+screenshot: "/uploads/billboardaw-1.jpg"
 links: []
 caption: ''
 description: ''
@@ -12,5 +12,5 @@ accent_image:
   background: linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4
     70%,#cdccc8 100%)
   overlay: true
----
 
+---
