@@ -1,6 +1,7 @@
 ---
 title: AT&T Pac 12
-date: 2014-01-01 08:00:00 +0000
+date: 2014-01-01 08:00:00 Z
+published: false
 layout: project
 image: "/uploads/Networks-ATT-logos-1024x576.jpg"
 screenshot: "/uploads/Networks-ATT-logos-1024x576.jpg"
@@ -12,5 +13,5 @@ accent_image:
   background: linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4
     70%,#cdccc8 100%)
   overlay: true
-
 ---
+
