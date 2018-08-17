@@ -5,23 +5,13 @@ hide_description: true
 permalink: /
 ---
 
-# Thank You
-Thank you for buying the PRO version of Hydejack! 🎉
+# About Daron
+Daron is a Digital Marketing Specialist with experience managing nation wide teams and multi-million-dollar campaigns. His background in brand strategy, visual design, and account management inform his mindful but competitive approach.
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown, with my own editor, one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+Daron is fueled by his passion for understanding the nuances of cross-cultural advertising. He considers himself a ‘forever student,’ eager to both build on his academic foundations in marketing and Internet Technology.
 
-## First Steps
-Please start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+His hunger for knowledge and determination to turn information into action has contributed to his most recent success at 360 Agency, where he led nationwide, award-winning campaigns for heavy-hitting brands such as AT&T, Blackberry, and Billboard Awards.
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+Meanwhile, he vastly improved the productivity of his team by implementing strategic project management strategies and ensuring a work-life balance for his department. Daron believes determination in the workplace is key to success - a tenet he lives out through his interests in hiking, sports, and traveling the world.
 
-[documentation]: docs/8.0.0/README.md
-[install]: docs/8.0.0/install.md
-[upgrade]: docs/8.0.0/upgrade.md
-[config]: docs/8.0.0/config.md
+Daron is currently working as a freelance marketing specialist and seeks challenges. Reach out to dsobrien1@gmail.com to connect!
