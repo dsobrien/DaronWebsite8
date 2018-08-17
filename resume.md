@@ -2,16 +2,14 @@
 layout: resume
 title: Résumé
 description: >
- 
-Daron is a Digital Marketing Specialist, with experience managing nation wide teams and multi-million-dollar campaigns. His background in brand strategy, visual design, and account management inform his mindful but competitive approach.
-
-
+  This is the `description` of your resume page, as it will be seen by search engines.
+  Open `resume.md` to edit this text.
 hide_description: true
 menu: true
 order: 3
 left_column:
  - work
- - work
+ - volunteer
  - education
  - awards
  - publications
