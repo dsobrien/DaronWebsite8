@@ -1,6 +1,6 @@
 ---
 title: Ihop
-date: ''
+date: 2014-01-01 08:00:00 +0000
 layout: project
 image: "/uploads/20141014_152543-1024x576.jpg"
 screenshot: "/uploads/20141014_152543-1024x576.jpg"
