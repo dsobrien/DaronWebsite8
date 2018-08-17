@@ -1,6 +1,6 @@
 ---
 title: Billboard Awards 2014
-date: ''
+date: 2014-01-01 08:00:00 +0000
 layout: project
 image: "/uploads/billboard-music-awards-1.jpg"
 screenshot: "/uploads/billboard-music-awards-1.jpg"
