@@ -24,13 +24,12 @@ title:                 Hydejack
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  I am Daron O'Brien
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  "In order to be successful, your focus has to be so intense, people think you're crazy".
+ 
 
 # A list of keywords for your blog
 keywords:              []
@@ -43,7 +42,7 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <Daron> <O'Brien>
-  email:               <mdsobrien1@gmail.com>
+  email:               <dsobrien1@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <DshonObrien>
 
@@ -262,7 +261,7 @@ plugins:
 
 # Used for Twitter cards
 # twitter:
-#   username:            <shortname>
+#   username:            DshonObrien
 
 # Used for Facebook open graph
 # facebook:
@@ -272,10 +271,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                Daron O'Brien
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://twitter.com/DshonObrien
+#     - https://github.com/dsobrien
 
 
 # Other Plugins
