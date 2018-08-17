@@ -1,5 +1,5 @@
 ---
-image: /assets/img/hydejack-8.jpg
+image: "/assets/img/hydejack-8.jpg"
 menu: true
 order: 4
 ---
