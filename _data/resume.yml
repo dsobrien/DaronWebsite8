@@ -57,18 +57,22 @@ education:
     gpa: "3.75"
 
 skills:
-  - name: "Web Development"
+  - name: "Digital Marketing"
     level: "Master"
     keywords:
       - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
+      - "SEO"
+      - "Adwords"
+      - "Adsense"
+      - "Adsense"
+      - "Hubspot"
+      - "CRM"
+  - name: "Social Media"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Facebook"
+      - "Twitter"
+      - "Instagram"
 languages:
   - language: "English"
     fluency: "Native speaker"
