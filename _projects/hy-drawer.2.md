@@ -1,6 +1,6 @@
 ---
 title: Latin Music Awards
-date: 2014-01-01 08:00:00 Z
+date: 2018-01-01 08:00:00 Z
 layout: project
 image: "/uploads/hero-1-1024x400.jpg"
 screenshot: "/uploads/hero-1-1024x400.jpg"
