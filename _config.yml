@@ -119,8 +119,6 @@ plugins:
 - jekyll-sitemap
 - jekyll-titles-from-headings
 optional_front_matter:
-# theme: jekyll-theme-hydejack
-# remote_theme: qwtel/hydejack
   remove_originals: true
 readme_index:
   remove_originals: true
