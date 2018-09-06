@@ -50,11 +50,12 @@ work:
 
 education:
   - institution: "University of California, Santa Barbara"
-    area: "Communication"
     studyType: "Bachelor"
     startDate: "2008-06-01"
-    endDate: "2012-06-01"
-    gpa: "3.75"
+    endDate: "2012-01-01"
+    gpa: "3.5"
+    courses:
+      
 
 skills:
   - name: "Digital Marketing"
